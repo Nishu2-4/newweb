@@ -1,1 +1,1 @@
-# newweb
+This repository is a template portfolio designed to showcase projects, skills, and experiences in a simple and structured way. It can be customized to include information about different projects, technologies used, and contact details, making it a starting point for creating a professional GitHub portfolio.
